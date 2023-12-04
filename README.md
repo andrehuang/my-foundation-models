@@ -14,7 +14,7 @@ In this repository, I aim to document the useful resources of foundational model
   
 ## Vision-Language models
 
-- CLIP, [DiHT](https://github.com/facebookresearch/diht)?
+- CLIP, [DiHT](https://github.com/facebookresearch/diht), [SigLIP](https://colab.research.google.com/github/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/SigLIP_demo.ipynb)
 - Image tag generation: [RAM, RAM++](https://github.com/xinyu1205/recognize-anything)
 - Region-level grounding model: [GLaMM](https://github.com/mbzuai-oryx/groundingLMM), GroundingDINO, GroundingSAM
 
